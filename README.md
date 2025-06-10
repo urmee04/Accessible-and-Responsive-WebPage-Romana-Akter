@@ -25,10 +25,16 @@ This Skills-Based Assessment, designed to test the ability to create a well-stru
 
 To test the accessibility of this page:
 
-1. Use a screen reader (like VoiceOver or NVDA) to navigate the page
-2. Try navigating using only your keyboard (Tab, Shift+Tab, Enter)
+1. Use a screen reader narrator (Built-in windows sceen reader) to navigate the page
+2. Try navigating using only your keyboard (Tab, Shift+Tab, Enter, caps lock + >)
 3. Use browser developer tools to check contrast ratios
 4. Validate with tools like WAVE or axe DevTools
+
+## Accessibility Tools
+
+- [WAVE Accessibility Tool](https://wave.webaim.org)
+- [axe DevTools for Chrome](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
+
 
 ## Reflection Questions
 
@@ -50,3 +56,4 @@ To test the accessibility of this page:
    - MDN Web Docs for HTML and CSS references
    - Screen readers for testing navigation
    - Browser developer tools for responsive testing
+   
