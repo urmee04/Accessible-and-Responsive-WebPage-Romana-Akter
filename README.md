@@ -1,8 +1,8 @@
-# SBA 2: Building a Responsive and Accessible Web Page
+### SBA 2: Building a Responsive and Accessible Web Page
 
 This Skills-Based Assessment, designed to test the ability to create a well-structured, responsive, and accessible web page using the HTML and CSS techniques we have learned. The assessment will be done based on the use of semantic HTML, CSS layout techniques (including Flexbox and Grid), and the implementation of accessibility features.
 
-## Features
+#### Features
 
 - Semantic HTML5 structure
 - Responsive design using Flexbox and CSS Grid
@@ -15,13 +15,13 @@ This Skills-Based Assessment, designed to test the ability to create a well-stru
 - Mobile-friendly navigation
 - Responsive layout with media queries
 
-## How to View
+#### How to View
 
 1. Clone this repository or download the files
 2. Open `HomePage.html` in your web browser
 3. Test responsiveness by resizing your browser window or using device emulation in developer tools
 
-## Testing Accessibility
+#### Testing Accessibility
 
 To test the accessibility of this page:
 
@@ -30,13 +30,13 @@ To test the accessibility of this page:
 3. Use browser developer tools to check contrast ratios
 4. Validate with tools like WAVE or axe DevTools
 
-## Accessibility Tools
+#### Accessibility Tools
 
 - [WAVE Accessibility Tool](https://wave.webaim.org)
 - [axe DevTools for Chrome](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
 
 
-## Reflection Questions
+#### Reflection Questions
 
 1. **What accessibility challenges did you face, and how did you address them?**
    - The main challenge was ensuring all interactive elements were keyboard-navigable and properly labeled. I addressed this by:
